@@ -1,2 +1,2 @@
 # e-com1
-click to visit :spismail.github.io.e-comsss
+click to visit : http://spismail.github.io.e-comsss/
